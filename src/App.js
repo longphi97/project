@@ -1,6 +1,7 @@
 import "./App.css";
 
 function App() {
+  <title>kung fu</title>;
   const handleSubmit = (e) => {
     alert("hello");
   };
@@ -8,6 +9,10 @@ function App() {
     <div className="App">
       <h1 className="title">This is LongPhiLong Page</h1>
       <h2 className="title">Login Account</h2>
+      <a href="https://www.petrolimex.com.vn/ndi/thong-cao-bao-chi/petrolimex-dieu-chinh-gia-xang-dau-tu-15-gio-00-ngay-21-4-2022.html">
+        đừng bấm vào
+      </a>
+      ;
       <form className="form">
         <p>
           Username:
@@ -24,7 +29,7 @@ function App() {
         type="submit"
         onClick={handleSubmit}
       >
-        Register
+        Login
       </button>
     </div>
   );
