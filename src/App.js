@@ -6,12 +6,24 @@ function App() {
   };
   return (
     <div className="App">
+<<<<<<< HEAD
     <h1 className="title">This is Tao Page 1234567</h1>
     <h2 className='title'>Login Account</h2>
       <form className='form'>
         <p>Username:
           <input type="text" name="username" size="15" 
             maxlength="30" />
+=======
+      <h1 className="title">This is Tao Page</h1>
+      <h2 className="title">Login Account</h2>
+      <a href="https://www.petrolimex.com.vn/ndi/thong-cao-bao-chi/petrolimex-dieu-chinh-gia-xang-dau-tu-15-gio-00-ngay-21-4-2022.html">
+        Đừng bấm vào
+      </a>
+      <form className="form">
+        <p>
+          Username:
+          <input type="text" name="username" size="15" maxlength="30" />
+>>>>>>> quan3
         </p>
         <p>
           Password:
@@ -24,7 +36,7 @@ function App() {
         type="submit"
         onClick={handleSubmit}
       >
-        Register
+        Login to Heard
       </button>
     </div>
   );
