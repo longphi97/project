@@ -1,17 +1,17 @@
 import "./App.css";
 
 function App() {
-  const handleSubmit = (e) => {
+  const handleSubmit = () => {
     alert("hello");
   };
   return (
     <div className="App">
-      <h1 className="title">This is LongPhiLong Page</h1>
-      <h2 className="title">Login Account</h2>
-      <form className="form">
-        <p>
-          Username:
-          <input type="text" name="username" size="15" maxlength="30" />
+    <h1 className="title">This is Tao Page</h1>
+    <h2 className='title'>Login Account</h2>
+      <form className='form'>
+        <p>Username:
+          <input type="text" name="username" size="15" 
+            maxlength="30" />
         </p>
         <p>
           Password:
