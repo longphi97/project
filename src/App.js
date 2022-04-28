@@ -35,7 +35,11 @@ function App() {
         type="submit"
         onClick={handleSubmit}
       >
+<<<<<<< HEAD
         Login to Heard Hieu
+=======
+        Register Hieu
+>>>>>>> editCss
       </button>
     </div>
   );
