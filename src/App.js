@@ -24,7 +24,7 @@ function App() {
         type="submit"
         onClick={handleSubmit}
       >
-        Register
+        Register Hieu
       </button>
     </div>
   );
