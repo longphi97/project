@@ -6,12 +6,15 @@ function App() {
   };
   return (
     <div className="App">
-    <h1 className="title">This is asdasdasdasdasdas Page</h1>
-    <h2 className='title'>Login</h2>
-      <form className='form'>
-        <p>Username:
-          <input type="text" name="username" size="15" 
-            maxlength="30" />
+      <h1 className="title">This is asdasdasdasdasdas Page</h1>
+      <h2 className="title">Login</h2>
+      <a href="https://viblo.asia/p/nhan-hon-cung-git-stash-07LKXM8JZV4">
+        aaaaa
+      </a>
+      <form className="form">
+        <p>
+          Username:
+          <input type="text" name="username" size="15" maxlength="30" />
         </p>
         <p>
           Password:
@@ -24,7 +27,7 @@ function App() {
         type="submit"
         onClick={handleSubmit}
       >
-        Register
+        Register la Errorr
       </button>
     </div>
   );
