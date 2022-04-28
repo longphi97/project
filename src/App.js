@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
     <h1 className="title">This is asdasdasdasdasdas Page</h1>
-    <h2 className='title'>Login Account</h2>
+    <h2 className='title'>Login</h2>
       <form className='form'>
         <p>Username:
           <input type="text" name="username" size="15" 
