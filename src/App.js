@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-    <h1 className="title">This is LongPhiLong Page</h1>
+    <h1 className="title">This is Tao Page</h1>
     <h2 className='title'>Login Account</h2>
       <form className='form'>
         <p>Username:
