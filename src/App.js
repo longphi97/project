@@ -15,12 +15,15 @@ function App() {
             maxlength="30" />
 
       <h1 className="title">This is Tao Page</h1>
+      <div  >   to be continued meme</div>
+      
       <h2 className="title">Login Ac</h2>
       <a href="https://www.petrolimex.com.vn/ndi/thong-cao-bao-chi/petrolimex-dieu-chinh-gia-xang-dau-tu-15-gio-00-ngay-21-4-2022.html">
         Đừng bấm vào
       </a>
       </p>
       </form>
+      <div>
       <button
         style={{ textAlight: "center" }}
         className="btn"
@@ -32,6 +35,10 @@ function App() {
         Register HieuAbc
 
       </button>
+      </div>
+     
+      <div> </div>
+
     </div>
   );
 }
