@@ -13,6 +13,8 @@ function App() {
           rel="noopener noreferrer"
         >
           thu nghiema
+          Learn React
+          Learn Git
         </a>
       </header>
     </div>
