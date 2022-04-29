@@ -16,9 +16,14 @@ function App() {
 
       <h1 className="title">This is Tao Page</h1>
       <h2 className="title">Login Ac</h2>
-      <a href="https://www.petrolimex.com.vn/ndi/thong-cao-bao-chi/petrolimex-dieu-chinh-gia-xang-dau-tu-15-gio-00-ngay-21-4-2022.html">
+      <div><a href="https://www.petrolimex.com.vn/ndi/thong-cao-bao-chi/petrolimex-dieu-chinh-gia-xang-dau-tu-15-gio-00-ngay-21-4-2022.html">
         Đừng bấm vào
+      </a></div>
+      <div>
+      <a href="https://www.facebook.com/binhnguyen070690/">
+        Bấm vào đi
       </a>
+      </div>
       </p>
       </form>
       <button
@@ -30,7 +35,7 @@ function App() {
 
         Login to Heard Hieu
         Register HieuAbc
-
+      
       </button>
     </div>
   );
